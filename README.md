@@ -22,9 +22,9 @@ Here's a peek at my language proficiency:
 
 🌟 Let's connect! Feel free to reach out:
 
-Website: [tranbuutai.com](https://www.tranbuutai.com)  
-LinkedIn: [linkedin.com/in/tranbuutai](https://www.linkedin.com/in/tranbuutai)  
-Email: tranbuutai80@gmail.com  
+[Website](https://www.tranbuutai.com)  
+[LinkedIn](https://www.linkedin.com/in/tranbuutai)  
+[Email](mailto:tranbuutai80@gmail.com)  
 Phone: +84853047874
 
 </div>
