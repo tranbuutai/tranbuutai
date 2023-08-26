@@ -2,7 +2,8 @@
 
 # Trần Bửu Tài: Tech Enthusiast & Developer
 
-Hello there! 👋  
+## Hello there! 👋
+
 I'm Trần Bửu Tài, a tech enthusiast and developer from Can Tho, Vietnam. Let's embark on a journey into the world of technology and coding together.
 
 ### My Skills 🚀
