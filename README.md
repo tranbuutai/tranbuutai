@@ -1,6 +1,6 @@
 <div align="center">
 
-# Trần Bửu Tài: Tech Enthusiast & Developer
+# [Trần Bửu Tài: Tech Enthusiast & Developer](https://www.tranbuutai.com)
 
 ### Hello there! 👋
 
