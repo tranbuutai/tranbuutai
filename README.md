@@ -2,11 +2,11 @@
 
 # [Trần Bửu Tài: Tech Enthusiast & Developer](https://www.tranbuutai.com)
 
-### Hello there! 👋
+**Hello there!** 👋
 
 I'm Trần Bửu Tài, a tech enthusiast and developer from Can Tho, Vietnam. Let's embark on a journey into the world of technology and coding together.
 
-### My Skills 🚀
+**My Skills** 🚀
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-blue?style=for-the-badge&logo=react)
