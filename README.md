@@ -22,8 +22,6 @@ Here's a peek at my language proficiency:
 
 🌟 Let's connect! Feel free to reach out:
 
-[Website](https://www.tranbuutai.com)  
-[LinkedIn](https://www.linkedin.com/in/tranbuutai)  
-[Email](mailto:tranbuutai80@gmail.com)  
+[Website](https://www.tranbuutai.com) &bull; [LinkedIn](https://www.linkedin.com/in/tranbuutai) &bull; [Email](mailto:tranbuutai80@gmail.com)  
 
 </div>
